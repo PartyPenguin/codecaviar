@@ -1,7 +1,19 @@
-title: Grav
+title: Codecaviar
+default_lang: en
 author:
-  name: Joe Bloggs
-  email: 'joe@example.com'
+  name: 'Nicolas Nonnengiesser'
+  email: brummbrumm1995@googlemail.com
+taxonomies:
+  - category
+  - tag
 metadata:
-    description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
-
+  description: 'I’m a computer science student by day, creative mind by night, and this is my website.  I live in Frankfurt, have a collection of keyboards, and I like good music.  I graduated from Goethe University Frankfurt advised by Visvanathan Ramesh. Currently pursuing my masters degree in Autonomous Systems  at  TU Darmstadt.  Apart from that I work part-time at DB Systel with databases.'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+redirects: null
+routes: null
+blog:
+  route: /blog
